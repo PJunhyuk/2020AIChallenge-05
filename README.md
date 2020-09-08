@@ -2,9 +2,9 @@
 
 본 repo 는 [mAy-I](https://may-i.io) 팀으로 참가한 [2020 인공지능 온라인 경진대회](http://aichallenge.or.kr/main/main.do) 중 `액세서리 착용자에 대한 인식 및 조회 모델 개발` 태스크 수행을 위한 레포지토리입니다.  
 
-[mAy-I](https://may-i.io) 는 [과학기술정보통신부](https://www.msit.go.kr/)가 주최하고 [정보통신산업진흥원](https://www.nipa.kr/)이 주관하는 [2020 인공지능 온라인 경진대회](http://aichallenge.or.kr/main/main.do)에 참가하여, **종합 5등** 을 달성하였습니다.  
+mAy-I 는 [과학기술정보통신부](https://www.msit.go.kr/)가 주최하고 [정보통신산업진흥원](https://www.nipa.kr/)이 주관하는 **2020 인공지능 온라인 경진대회** 에 참가하여, **종합 5등** 을 달성하였습니다.  
 
-본 repo 는 그 중 [[과제 05] 액세서리 착용자에 대한 인식 및 조회 모델 개발](http://aichallenge.or.kr/task/detail.do?taskId=T000005) 과 [[과제 06] (경량화 5M) 액세서리 착용자에 대한 인식 및 조회 모델 개발](http://aichallenge.or.kr/task/detail.do?taskId=T000006) 태스크를 다루고 있으며, [mAy-I](https://may-i.io) 는 두 태스크에서 모두 **2등** 을 달성하였습니다.  
+본 repo 는 그 중 [[과제 05] 액세서리 착용자에 대한 인식 및 조회 모델 개발](http://aichallenge.or.kr/task/detail.do?taskId=T000005) 과 [[과제 06] (경량화 5M) 액세서리 착용자에 대한 인식 및 조회 모델 개발](http://aichallenge.or.kr/task/detail.do?taskId=T000006) 태스크를 다루고 있으며, mAy-I 는 두 태스크에서 모두 **2등** 을 달성하였습니다.  
 
 대회 중 작성하였었던 코드를 아카이빙하는 것이 목적이라, *별도의 문서화나 리팩토링을 거치지 않은 점*, 양해 부탁드립니다:)
 
@@ -148,7 +148,5 @@ $ python
 
 #### mAy-I
 
-- [2020AIChallenge-04](https://github.com/jessekim-ck/2020AIChallenge-04) : 함께 [mAy-I](https://may-i.io) 팀으로 참여한 [jessekim](https://github.com/jessekim-ck) 님의 [[과제 04] (경량화 5M) 얼굴 다각도 인식 및 조회 모델 개발
-](http://aichallenge.or.kr/task/detail.do?taskId=T000004) 코드 repo 입니다. [mAy-I](https://may-i.io) 는 해당 태스크에서 **1등** 을 달성하였습니다.  
-- [메이아이 홈페이지](https://may-i.io)
-- [메이아이 깃허브](https://github.com/mAy-I)
+- [2020AIChallenge-04](https://github.com/jessekim-ck/2020AIChallenge-04) : 함께 mAy-I 팀으로 참여한 [jessekim](https://github.com/jessekim-ck) 님의 [[과제 04] (경량화 5M) 얼굴 다각도 인식 및 조회 모델 개발
+](http://aichallenge.or.kr/task/detail.do?taskId=T000004) 코드 repo 입니다. mAy-I 는 해당 태스크에서 **1등** 을 달성하였습니다.  
